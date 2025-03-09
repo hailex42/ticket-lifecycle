@@ -32,8 +32,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/user-attachments/assets/fbb5b09c-58fe-47b1-ab06-5cdbfbbd8a70)
 
 <p>
-As an end-user, create the following ticket
-entire mobile/online banking system is down
+As an end-user, create the following ticket:
+"Entire mobile/online banking system is down."
 
 </p>
 <br />
