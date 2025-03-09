@@ -6,9 +6,7 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -90,5 +88,5 @@ Set Properties to the ticket
 Sev-B (4 hours, 24/7)
 Support
 
-Work the ticket to completion as john
+Work the ticket to completion as john.
 </p>
