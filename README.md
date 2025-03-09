@@ -56,6 +56,7 @@ Online Banking Department
 
 ![image](https://github.com/user-attachments/assets/2863708d-275b-4e62-8a17-d38b31824de1)
 
+
 <p>
 As an end-user, create the following ticket
 accounting department needs adobe upgrade, broken
@@ -74,6 +75,7 @@ Work the ticket to completion as john
 
 </p>
 <br />
+
 ![image](https://github.com/user-attachments/assets/1c4c66d9-f6fe-4169-b224-187eb39ed7c7)
 <p>As an end-user, create the following ticket
 CFO’s laptop will no longer turn on
