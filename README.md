@@ -66,7 +66,7 @@ As a Help Desk Agent (john), observe the ticket’s properties
 	Assigned To
 
 Set Properties to the ticket
-Sev-B (4 hours, 24/7)
+Sev-C (4 hours, 24/7)
 Support
 
 Work the ticket to completion as john
