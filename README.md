@@ -43,7 +43,7 @@ As a Help Desk Agent (john), observe the ticket’s properties
 	Priority
 	Department
 	SLA
-	Assigned To
+	Assigned To:
 
 Set Properties to the ticket
 Sev-A (1 hour, 24/7)
@@ -63,7 +63,7 @@ As a Help Desk Agent (john), observe the ticket’s properties
 	Priority
 	Department
 	SLA
-	Assigned To
+	Assigned To:
 
 Set Properties to the ticket
 Sev-C (4 hours, 24/7)
@@ -82,7 +82,7 @@ As a Help Desk Agent (john), observe the ticket’s properties
 	Priority
 	Department
 	SLA
-	Assigned To
+	Assigned To:
 
 Set Properties to the ticket
 Sev-B (4 hours, 24/7)
